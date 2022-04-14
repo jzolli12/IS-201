@@ -1,0 +1,41 @@
+p{  
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: black;
+}
+
+h2{
+    color: rgb(45, 44, 46);
+    text-align: center;
+}
+
+body{
+    background-color: white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.top{
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.excitedtext{
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+}

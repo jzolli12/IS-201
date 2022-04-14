@@ -1,0 +1,60 @@
+.header{
+    background-color: rgb(134, 197, 255);
+    height: 100px;
+    line-height: 100px;
+}
+
+.footer{
+    background-color: black;
+    height: 50px;
+    line-height: 50px;
+}
+
+.common{
+    background-color: white;
+}
+
+p{
+    color: white;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type:none;
+    padding: 10;
+  }
+
+li{
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 254, 254);
+    text-align: right;
+}
+
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bold; 
+}
+
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+}
